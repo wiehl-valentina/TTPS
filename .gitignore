@@ -1,0 +1,9 @@
+# Ignorar ejecutables de Windows
+*.exe
+
+# Ignorar archivos objeto y ejecutables de Linux/macOS
+*.o
+*.out
+
+# Ignorar carpetas de entornos de desarrollo (opcional)
+.vscode/
