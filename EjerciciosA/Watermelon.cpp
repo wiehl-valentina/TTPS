@@ -17,12 +17,3 @@ int main() {
     }
     return 0; 
 }
-
-// * PARA TESTEAR
-
-// cómo ejecutar en consola? 
-// g++ -o Ejemplo Ejemplo.cpp --> compila
-// ./Ejemplo.cpp --> ejecuta
-// ./Ejemplo.cpp << archivo --> indico que tome como entrada por ej un txt llamado archivo
-
-// en codeforces elegir compilador c++23
