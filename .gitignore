@@ -1,4 +1,3 @@
 # Ignorar carpetas de entornos de desarrollo (opcional)
 .vscode
-bin
 notas.md
